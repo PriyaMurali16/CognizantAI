@@ -6,3 +6,4 @@ Milk
 Bananas
 Bread
 Cereal
+New item chocolate
